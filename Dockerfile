@@ -13,10 +13,8 @@ RUN set -ex; \
         gedit \
         expect \
         sudo \
-	ip \
 	virtualbox \
 	dpkg \
-	su \
         vim \
 	vlc \
         bash \
