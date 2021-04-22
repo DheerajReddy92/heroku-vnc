@@ -16,6 +16,7 @@ RUN set -ex; \
         vim \
 	vlc \
         bash \
+	sudo \
         net-tools \
         novnc \
         xfce4 \
