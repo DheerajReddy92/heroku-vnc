@@ -15,6 +15,7 @@ RUN set -ex; \
         sudo \
         vim \
 	vlc \
+	virtualbox \
         bash \
         net-tools \
         novnc \
